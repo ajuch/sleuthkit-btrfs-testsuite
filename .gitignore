@@ -1,0 +1,9 @@
+/target
+/src/test/resources/testfiles
+/.settings
+/.classpath
+/.project
+/dependency-reduced-pom.xml
+/compare.img
+/.idea
+/btrfs-testsuite.iml
